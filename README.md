@@ -87,7 +87,7 @@ FATEC Shunji Nishimura — Pompeia, SP
 Estou aberto a conexões profissionais e oportunidades em desenvolvimento Backend.
 
 - 💻 **GitHub:** [github.com/Felslender](https://github.com/Felslender)
-- 🔗 **LinkedIn:** [adicione aqui o link do seu perfil antes de publicar](https://www.linkedin.com/in/felipe-cavalcante-8173ba26b/)
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/felipe-cavalcante-8173ba26b/)
 
 ---
 
